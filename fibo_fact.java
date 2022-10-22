@@ -54,6 +54,7 @@ public class fibo_fact {
 
             {
                 a.fibo(arry);
+                a.facto(arry,size);
 
             }
 
