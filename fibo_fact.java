@@ -4,7 +4,7 @@ public class fibo_fact {
 
     public void fibo( int a[]){
 
-        System.out.println("test");
+        System.out.println("hello");
 
         for(int i = 0; i <= a.length; i++){
 
